@@ -78,7 +78,7 @@ export default function LandingPage() {
           handle: "@sophia_eats",
           testimonial: "Bella Napoli is my go-to for incredible Italian food. The pasta is always perfect, and the ambiance is wonderfully authentic!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-woman-smiling_23-2148454539.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-woman-smiling_23-2148454539.jpg?_wi=1",
           imageAlt: "Sophia R. profile picture",
         },
         {
@@ -86,7 +86,7 @@ export default function LandingPage() {
           handle: "@foodie_marco",
           testimonial: "Simply the best Italian in town! Every dish feels like a trip to Naples. Don't miss the tiramisu!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bartender-smiling-camera_107420-65492.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bartender-smiling-camera_107420-65492.jpg?_wi=1",
           imageAlt: "Marco L. profile picture",
         },
         {
@@ -94,7 +94,7 @@ export default function LandingPage() {
           handle: "@elena_ventures",
           testimonial: "A truly charming spot with fantastic service and even better food. The ravioli is out of this world!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-working-office_23-2148162631.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-working-office_23-2148162631.jpg?_wi=1",
           imageAlt: "Elena P. profile picture",
         },
         {
@@ -102,7 +102,7 @@ export default function LandingPage() {
           handle: "@giovanni_reviews",
           testimonial: "Bella Napoli brings the heart of Italy to your plate. Impeccable flavors and a warm, inviting atmosphere. Highly recommend!",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pensive-bearded-hipster-jacket-red-sweater-dark-background_613910-1834.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pensive-bearded-hipster-jacket-red-sweater-dark-background_613910-1834.jpg?_wi=1",
           imageAlt: "Giovanni M. profile picture",
         },
       ]}
@@ -217,7 +217,7 @@ export default function LandingPage() {
           name: "Sarah J.",
           handle: "@sarah_foodie",
           testimonial: "Every visit to Bella Napoli is a delight. The food is consistently amazing, and the staff makes you feel like family!",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-woman-smiling_23-2148454539.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-young-woman-smiling_23-2148454539.jpg?_wi=2",
           imageAlt: "Sarah J. profile picture",
         },
         {
@@ -225,7 +225,7 @@ export default function LandingPage() {
           name: "Michael D.",
           handle: "@gourmet_mike",
           testimonial: "The best carbonara I've ever had outside of Italy. Truly authentic and incredibly flavorful. Highly recommended!",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bartender-smiling-camera_107420-65492.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-bartender-smiling-camera_107420-65492.jpg?_wi=2",
           imageAlt: "Michael D. profile picture",
         },
         {
@@ -233,7 +233,7 @@ export default function LandingPage() {
           name: "Olivia P.",
           handle: "@olivia_travels",
           testimonial: "Bella Napoli captures the essence of Italian hospitality. Wonderful atmosphere, impeccable service, and delicious food.",
-          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-working-office_23-2148162631.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/business-woman-working-office_23-2148162631.jpg?_wi=2",
           imageAlt: "Olivia P. profile picture",
         },
         {
@@ -241,7 +241,7 @@ export default function LandingPage() {
           name: "David S.",
           handle: "@dave_eats",
           testimonial: "The pizza here is just divine, perfectly crispy crust and fresh toppings. It's like being back in Naples!",
-          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pensive-bearded-hipster-jacket-red-sweater-dark-background_613910-1834.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/portrait-pensive-bearded-hipster-jacket-red-sweater-dark-background_613910-1834.jpg?_wi=2",
           imageAlt: "David S. profile picture",
         },
       ]}
